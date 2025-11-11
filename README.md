@@ -57,8 +57,8 @@ Spektrogram merupakan representasi visual dari distribusi energi atau amplitudo 
 
 | Fitur | DFT | Spektrogram |
 |---|---|---|
-| Informasi waktu | ❌ Tidak Ada | ✅ Ada |
-| Informasi frekuensi | ✅ Ada | ✅ Ada |
+| Informasi waktu | ❌ | ✅ |
+| Informasi frekuensi | ✅ | ✅|
 | Output | 1D | 2D (t vs f) |
 
 ---
