@@ -65,4 +65,4 @@ Spektrogram merupakan representasi visual dari distribusi energi atau amplitudo 
 
 ## 5. Kesimpulan
 
-DFT menunjukkan *frekuensi apa saja, tetapi tidak **kapan munculnya. STFT mengatasi hal ini dengan menganalisis sinyal per segmen, lalu divisualisasikan sebagai spektrogram untuk melihat **waktu vs frekuensi vs energi*.
+DFT menunjukkan **frekuensi apa saja, tetapi tidak kapan munculnya**. STFT mengatasi hal ini dengan menganalisis sinyal per segmen, lalu divisualisasikan sebagai spektrogram untuk melihat **waktu vs frekuensi vs energi**.
