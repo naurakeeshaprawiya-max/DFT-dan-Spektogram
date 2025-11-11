@@ -65,3 +65,9 @@ Spektrogram merupakan representasi visual dari distribusi energi atau amplitudo 
 ## 5. Kesimpulan
 
 DFT menunjukkan **frekuensi apa saja, tetapi tidak kapan munculnya**. STFT mengatasi hal ini dengan menganalisis sinyal per segmen, lalu divisualisasikan sebagai spektrogram untuk melihat **waktu vs frekuensi vs energi**.
+
+## 🎯 Tujuan Proyek DFT & Spektrogram
+
+Proyek ini bertujuan untuk mempelajari dan menerapkan cara mengubah sinyal suara dari bentuk gelombang waktu menjadi informasi frekuensi menggunakan metode Discrete Fourier Transform (DFT), serta menampilkan perubahan frekuensi terhadap waktu menggunakan spektrogram. Dengan metode ini, kita dapat mengetahui komponen frekuensi apa saja yang ada di dalam suatu suara, misalnya nada dasar pada suara manusia atau musik, serta melihat bagaimana karakter suaranya berubah seiring waktu.
+
+Selain itu, proyek ini juga bertujuan untuk memahami bagaimana pengaturan seperti jumlah data (sampel), sampling rate, dan ukuran window dapat memengaruhi hasil analisis frekuensi. Hasil akhirnya divisualisasikan dalam bentuk grafik spektrum dan spektrogram agar lebih mudah dianalisis.
