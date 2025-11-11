@@ -44,7 +44,6 @@ Spektrogram merupakan representasi visual dari distribusi energi atau amplitudo 
 
 ![spec](https://latex.codecogs.com/png.image?\dpi{120}\bg{white}Spectrogram(m,k)=|X(m,k)|^2)
 
-### Cara membaca:
 | Sumbu / Elemen | Arti |
 |---|---|
 | X | Waktu |
