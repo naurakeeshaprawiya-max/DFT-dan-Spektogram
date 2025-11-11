@@ -22,7 +22,7 @@ Discrete Fourier Transform (DFT) merupakan metode yang digunakan untuk mengubah 
 
 ### 🔹 Resolusi Frekuensi
 
-![res](https://latex.codecogs.com/png.image?\dpi{120}\bg{white}\Delta f=\frac{f_s}{N})
+![res](https://latex.codecogs.com/png.image?\dpi{120}\bg{white}\Deltaf=\frac{f_s}{N})
 
 > Semakin besar N, resolusi frekuensi semakin baik.
 
